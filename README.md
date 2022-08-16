@@ -8,14 +8,7 @@ Github Profile Link: https://github.com/MuhammadBilalAkbar
 Youtube Channel Link: https://www.youtube.com/channel/UCu2Hy8Wzb14T37e5Adsfc8w                      
 Facebook Profile Link: https://www.facebook.com/mbilalakbar0/
 
-
-
 https://user-images.githubusercontent.com/87815800/184936402-5368432b-355c-4f03-8ceb-f5c9a3531ef4.mp4
-
-
-<a width="560" height="315" src="https://www.youtube.com/embed/ZmEyp85p564" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></a>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZmEyp85p564" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![Flutter Quizzler App](https://yt-embed.herokuapp.com/embed?v=ZmEyp85p564)](https://www.youtube.com/watch?v=ZmEyp85p564 "Flutter Quizzler App")
 
