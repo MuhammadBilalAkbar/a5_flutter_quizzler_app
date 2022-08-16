@@ -7,9 +7,7 @@ Github Profile Link: https://github.com/MuhammadBilalAkbar
 Youtube Channel Link: https://www.youtube.com/channel/UCu2Hy8Wzb14T37e5Adsfc8w                      
 Facebook Profile Link: https://www.facebook.com/mbilalakbar0/
 
-  <p align="center">
-  <img src="flutterQuizzlerApp.mp4" />
-</p>
+https://user-images.githubusercontent.com/87815800/184881731-d8ac52f7-f60a-4c7b-a611-117455e28500.mp4
 
 ## Getting Started
 
