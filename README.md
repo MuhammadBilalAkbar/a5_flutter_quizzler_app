@@ -2,7 +2,7 @@
 
 A basic quiz app in flutter.
 
-Explanationn Video on Youtube: https://youtu.be/ZmEyp85p564         
+Explanation Video on Youtube: https://youtu.be/ZmEyp85p564         
 Linkedin Profile Link: https://www.linkedin.com/in/mohammad-bilal-akbar-981649189/          
 Github Profile Link: https://github.com/MuhammadBilalAkbar                                         
 Youtube Channel Link: https://www.youtube.com/channel/UCu2Hy8Wzb14T37e5Adsfc8w                      
@@ -15,10 +15,7 @@ https://user-images.githubusercontent.com/87815800/184936402-5368432b-355c-4f03-
 
 
 Youtube Video:
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZmEyp85p564" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-https://youtu.be/ZmEyp85p564
 
 ## Getting Started
 
