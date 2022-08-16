@@ -13,9 +13,7 @@ Facebook Profile Link: https://www.facebook.com/mbilalakbar0/
 https://user-images.githubusercontent.com/87815800/184936402-5368432b-355c-4f03-8ceb-f5c9a3531ef4.mp4
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ZmEyp85p564
-" target="_blank"><img src="http://img.youtube.com/vi/ZmEyp85p564/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a width="560" height="315" src="https://www.youtube.com/embed/ZmEyp85p564" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZmEyp85p564" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
