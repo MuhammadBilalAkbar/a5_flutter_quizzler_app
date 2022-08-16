@@ -15,6 +15,8 @@ https://user-images.githubusercontent.com/87815800/184936402-5368432b-355c-4f03-
 
 
 Youtube Video: https://www.youtube.com/watch?v=ZmEyp85p564 "Flutter Quizzler App"
+[![Flutter Quizzler App](https://img.youtube.com/vi/ZmEyp85p564/0.jpg)](https://www.youtube.com/watch?v=ZmEyp85p564)
+https://youtu.be/ZmEyp85p564
 
 ## Getting Started
 
